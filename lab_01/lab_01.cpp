@@ -9,7 +9,7 @@
 class Clicker
 {
 public:
-  Clicker() :
+  Clicker():
     start_(std::chrono::high_resolution_clock::now())
   {
   }
