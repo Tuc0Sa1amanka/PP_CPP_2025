@@ -3,10 +3,11 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
-# Или общий паттерн для всех подобных файлов
+# Unusubale artefacts for code rewiew
 *.sln
 *.vcxproj
 *.vcxproj.filters
+*.gitattributes
 
 # User-specific files
 *.rsuser
